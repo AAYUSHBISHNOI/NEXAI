@@ -16,7 +16,7 @@
     font-family: "recharge";
 }
 .bcg_img{
-    background-image: url(/assets/img/png/bcg_img.png);
+    background-image: url("/assets/img/png/hero.gif");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -437,7 +437,7 @@ ol, ul {
         width: 80%;
     }
     .mrgn {
-        margin-top: 160px;
+        margin-top: 80px;
     }
     .mrgn_top {
         margin-top: 150px;
