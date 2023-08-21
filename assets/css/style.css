@@ -148,6 +148,7 @@
     bottom: 0px;
     width: 4000px;
     right: 100%;
+    background-color: black;
 }
 .timeline-container::-webkit-scrollbar {
     display: none;
@@ -268,7 +269,7 @@
 }
 .img_pstn_7{
     position: absolute;
-    top: -50%;
+    top: -20%;
     left: 0;
 }
 .img_pstn_8{
@@ -320,6 +321,10 @@
     position: absolute;
     top: 75%;
     right: 0;
+}
+.slick-list{
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
 .nav-lines{
     border: 2px solid white;
