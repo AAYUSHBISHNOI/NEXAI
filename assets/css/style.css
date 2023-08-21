@@ -29,6 +29,18 @@
     border-radius: 12px;
     background: var(--green, #02CDCF);
 }
+.btn_sign_1{
+    padding: 10px 20px;
+    border-radius: 12px;
+    background: var(--green, #02CDCF);
+}
+.btn_sign_1:hover{
+    background-color: white;
+}
+.btn_sign:hover{
+    background: white;
+    transition: all 200ms ease-in-out;
+}
 .bttn_border{
     border: none;
 }
@@ -320,6 +332,9 @@
     background-color: transparent;
     border: none;
     border-radius: 10px;
+}
+.bttn_nav:hover{
+    background-color: white;
 }
 ol, ul {
      padding-left: 0;
